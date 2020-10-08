@@ -1,6 +1,6 @@
 # CoRe-dialogue-filtering
 
-This page provides codes or something related to our EMNLP2020 work!
+This page will provide codes or something related to our EMNLP2020 work!
 
 
 ## Reference
