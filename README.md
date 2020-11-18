@@ -4,7 +4,13 @@ This page will provide codes or something related to our EMNLP2020 work!
 
 
 ## Reference
-If you use anything in this repository, please cite:
+If you use our code for academic work, please cite:
 
-Reina Akama, Sho Yokoi, Jun suzuki and Kentaro Inui. Filtering Noisy Dialogue Corpora
-by Connectivity and Content Relatedness. In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020), November 2020 (to appear).
+@inproceedings{akama2020filtering,  
+   title = {Filtering Noisy Dialogue Corpora by Connectivity and Content Relatedness},  
+   author = {Akama, Reina and Yokoi, Sho and Suzuki, Jun and Inui, Kentaro},  
+   booktitle = {Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)},  
+   year = "2020",  
+   url = "https://www.aclweb.org/anthology/2020.emnlp-main.68",  
+   pages = "941--958",  
+}
