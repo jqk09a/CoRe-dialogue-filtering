@@ -3,8 +3,9 @@
 This page will provide codes or something related to our EMNLP2020 work!
 
 
+
 ## Reference
-If you use our code for academic work, please cite:
+If you use our code for your work, please cite:
 
 ```
 @inproceedings{akama2020filtering,  
